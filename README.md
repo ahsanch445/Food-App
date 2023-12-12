@@ -1,4 +1,4 @@
-#FoodieConnect
+##Project Overview##
 FoodieConnect is a full-stack web application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It is a platform dedicated to food enthusiasts, allowing users to discover, share, and explore culinary experiences.
 
 Features
