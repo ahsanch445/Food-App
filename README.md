@@ -1,4 +1,4 @@
-FoodieConnect
+<h1>FoodieConnect</h1>
 FoodieConnect is a full-stack web application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It is a platform dedicated to food enthusiasts, allowing users to discover, share, and explore culinary experiences.
 
 <h2>Features</h2>
@@ -34,5 +34,5 @@ Install dependencies using npm install in both the frontend and backend folders.
 Set up MongoDB and configure the database connection.
 Run the backend server using npx nodemon in the backend folder to start the Node.js server.
 Run the frontend server using npm run dev in the frontend folder to start the React.js application.
-Contribution Guidelines
+<h2>Contribution Guidelines</h2>
 Contributions are welcome! Please follow the standard guidelines for contributing outlined in the repository.
